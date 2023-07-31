@@ -26,6 +26,7 @@ This is a fork of SloneFallion's original [World Boss Tracker Bot](https://githu
   *  Added Domain Nine bosses Zhuyan, Black Crow and Taotie.
   *  Reworked interaction code to support expanded channel capacity (up to 50 channels)
   *  Implemented minimal language interface replacing text descriptions with icons and progress bars where applicable.
+  *  Added help menu translations for supported languages.
 
 Supported languages:
   * French (courtesy Dakuraii)
