@@ -1,4 +1,4 @@
-### Tower of Fantasy Discord Boss Tracker Bot (AN Edition)
+### Tower of Fantasy Discord Boss Tracker Bot (AN Multilingual Edition)
 ## About
 
 This is a fork of SloneFallion's original [World Boss Tracker Bot](https://github.com/SloneFallion/tof-boss-tracker) for Tower of Fantasy, which has been heavily modified for Aestral Noa's English Community Discord server.
@@ -10,6 +10,7 @@ This is a fork of SloneFallion's original [World Boss Tracker Bot](https://githu
 * Boss timers are shown in `time left to respawn` rather than `time of last reported defeat`
 * To mitigate misclick and fat-finger errors, marking kills now requires a two step process of selecting a channel and then pushing a confirmation button.
 * Added a `Missing` button to alert others when a boss in a particular channel was sniped without a corresponding kill report. Helps prevent TPs from going to waste.
+* Minimal language in UI in favour of icons and progress bars. Meant to support common usage in servers populated with multilingual communities.
 #### New commands
 * Added a `/setup` command to be used in place of `/say` for setting up boss status timers in their respective threads.
 * Added a `/clear` command to remove old tracker setups during updates.
@@ -21,9 +22,20 @@ This is a fork of SloneFallion's original [World Boss Tracker Bot](https://githu
 
 
 
-### V1.1.3
+### V1.1.3 MULTILANGUAGE
   *  Added Domain Nine bosses Zhuyan, Black Crow and Taotie.
   *  Reworked interaction code to support expanded channel capacity (up to 50 channels)
+  *  Implemented minimal language interface replacing text descriptions with icons and progress bars where applicable.
+
+Supported languages:
+  * French (courtesy Dakuraii)
+  * Indonesian (courtesy Taxsa and reery)
+  * Japanese (courtesy Kisa)
+  * Simplified Chinese (courtesy Morimacil)
+  * Thai (courtesy Edinburg)
+  * Vietnamese (courtesy VanduongSea2)
+
+If you wish to contribute additional languages, fill out the [Google Form here](https://forms.gle/bN1Smu9vgydLtYEeA)
     
 <details>
   <summary> 
