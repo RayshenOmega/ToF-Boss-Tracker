@@ -1,7 +1,7 @@
 ### Tower of Fantasy Discord Boss Tracker Bot
 ## About
 
-This is a fork of SloneFallion's original [World Boss Tracker Bot](https://github.com/SloneFallion/tof-boss-tracker) for Tower of Fantasy, which has been heavily modified for Aestral Noa's English Community Discord server.
+This is a fork of SloneFallion's original [World Boss Tracker Bot](https://github.com/SloneFallion/tof-boss-tracker) for Tower of Fantasy, which has been heavily modified by Aestral Noa's English Community Discord server. And futher modded by Raysen.
 
 **Changes from the original:**
 
