@@ -13,8 +13,8 @@ module.exports = {
 	async execute(interaction) {
 		try {
 			await interaction.reply({
-				content: `This bot was created by Slone#0110 with some help from hazen#7037.
-In-game: Arkondriel, commander of the Cat crew on Solaris. Modified for Aestral Noa by Jokoril#3941.
+				content: `This bot was created by Slone#0110, Updated By Rayshen.
+In-game: Rayshen, Officer of the Dawn crew on Starlight..
 On this server, the bot is maintained by <@${process.env.botmaintainer}>.`, ephemeral: true
 			});
 		} catch (error) {
