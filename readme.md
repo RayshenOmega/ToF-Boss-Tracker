@@ -21,9 +21,19 @@ This is a fork of SloneFallion's original [World Boss Tracker Bot](https://githu
 
 
 
-### V1.1.3
+### V1.1.4
+  *  Added Domain Nine bosses Merbelle, Xingtian.
+  *  Edited the `/about` To include my info.
+
+<details>
+  <summary> 
+ V1.1.3
+  </summary>
+ 
+ Fixes to V1.1.0:
   *  Added Domain Nine bosses Zhuyan, Black Crow and Taotie.
   *  Reworked interaction code to support expanded channel capacity (up to 50 channels)
+ </details>
     
 <details>
   <summary> 
