@@ -33,7 +33,7 @@ bossProperties = [
     { name: 'Merbelle',      value: 'merbelle',      channels: 30,   key: 'merbelleChannel' },
     { name: 'Xingtian',      value: 'xingtian',      channels: 30,   key: 'xingtianChannel' },
     { name: 'Fei Lian',      value: 'feilian',      channels: 30,   key: 'feilianChannel' },
-    //-Pod No. 8
+    //Pod No. 8
     { name: 'Ying Zhao',      value: 'yingzhao',      channels: 30,   key: 'yingzhaoChannel' },
     //{name: 'boss_name',     value: 'boss_name_lowercase',   channels: 0,  key: 'boss_nameChannel'},
 ];
