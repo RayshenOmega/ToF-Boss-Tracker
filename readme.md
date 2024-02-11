@@ -21,16 +21,25 @@ This is a fork of SloneFallion's original [World Boss Tracker Bot](https://githu
 
 
 
-### V1.1.4
+### Fixes to V1.1.5
+  *  Added Domain Nine bosses Fei Lian & Pod 8 Ying Zhao.
+
+<details>
+  <summary> 
+ V1.1.4
+  </summary>
+ 
+ Fixes to V1.1.4:
   *  Added Domain Nine bosses Merbelle, Xingtian.
   *  Edited the `/about` To include my info.
+ </details>
 
 <details>
   <summary> 
  V1.1.3
   </summary>
  
- Fixes to V1.1.0:
+ Fixes to V1.1.3:
   *  Added Domain Nine bosses Zhuyan, Black Crow and Taotie.
   *  Reworked interaction code to support expanded channel capacity (up to 50 channels)
  </details>
@@ -40,16 +49,16 @@ This is a fork of SloneFallion's original [World Boss Tracker Bot](https://githu
  V1.1.2
   </summary>
  
- Fixes to V1.1.0:
+ Fixes to V1.1.2:
   *  Removed old setup code that was casuing `/setup` to not execute properly.
  </details>
  
 <details>
   <summary> 
-  V1.1.1 
+  V1.1.1
   </summary>
  
-  Fixes to V1.1.0:
+  Fixes to V1.1.1:
   * Fixed an error in the readme containing wrong instructions on setting bot permissions.
   * Fixed respawn timer for bosses being set to 60s.
  </details>
